@@ -1,0 +1,1 @@
+The Level Up—Query History and Caching explores the Query History area in Snowsight, highlighting available information and useful features, and also introduces Snowflake’s caching mechanisms, which can help speed up queries and reduce virtual warehouse costs by avoiding redundant computation.
