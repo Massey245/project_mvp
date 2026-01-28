@@ -1,0 +1,6 @@
+#!/bin/bash
+pwd
+mkdir 2025
+date
+pwd
+cd 2025
